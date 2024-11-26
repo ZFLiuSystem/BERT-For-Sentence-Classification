@@ -14,7 +14,7 @@
 > _Reference_: https://paperswithcode.com/paper/bert-pre-training-of-deep-bidirectional.
 > 
 > ---
-> ![BertForSensCls.jpg](graph_/BertForSensCls.jpg)
+> ![BertForSensCls.jpg](graph_/BertForSensCls.jpg) <br>
 > ![BiAttention.jpg](graph_/BiAttention.jpg)
 ><div style="text-align: justify;">BERT (Bidirectional Encoder Representations from Transformers), 
 > which was introduced by Google in 2018, 
