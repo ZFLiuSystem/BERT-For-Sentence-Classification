@@ -99,7 +99,7 @@
 )<br>
 > ---
 > * **TrainingPart:** <br>
-> ![Training_](Graph_/Training_.png)
+> ![Training_](graph_/Training_.png)
 > ---
 > * **TestPart:** <br>
-> ![Test_](Graph_/Test_.png)
+> ![Test_](graph_/Test_.png)
